@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSharp_OOP_Exercise.Bird">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAQAAAIAIAAAAAABgAIAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CSharp_OOP_Exercise.Pigeon">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pigeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_OOP_Exercise.Penguin">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Penguin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_OOP_Exercise.Parrot">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Parrot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CSharp_OOP_Exercise.IDance">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDance.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
