@@ -7,5 +7,8 @@ namespace CSharp_OOP_Exercise
 {
     public interface IDance
     {
+        void Spin();
+        void DoTheCaterpillar();
+        void Jump();
     }
 }
